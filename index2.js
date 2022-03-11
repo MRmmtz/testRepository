@@ -12,4 +12,3 @@ h
  
 
 kiram toosh
-aq
